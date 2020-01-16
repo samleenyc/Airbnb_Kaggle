@@ -8,4 +8,4 @@ The dataset has 30k rows and 96 variables related to Airbnb rental data(price, l
  Python
  
 # Model
- 
+ LGBM
